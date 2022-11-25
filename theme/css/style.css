@@ -189,6 +189,10 @@ label {
   background: #fa6862 !important;
 }
 
+.container {
+  padding-top: 24px;
+}
+
 .preloader {
   bottom: 0;
   left: 0;
